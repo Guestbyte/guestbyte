@@ -3,6 +3,8 @@
 
 [https://github-profile-trophy.vercel.app/?username=guestbyte](https://github-profile-trophy.vercel.app/?username=guestbyte&title=MultiLanguage,Repositories,Stars,Commits,Followers)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   
   <img src="https://github-profile-trophy.vercel.app/?username=guestbyte" alt="guestbyte" /></a> 
