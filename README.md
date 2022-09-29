@@ -22,12 +22,11 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
   
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<a href="https://app.daily.dev/fortiz"><img src="https://api.daily.dev/devcards/97c83b830041472c9f8a67532556fa58.png?r=6pr" width="200" alt="Fernando Ortiz de Mello's Dev Card"/></a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=guestbyte)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guestbyte&show_icons=true&locale=en&layout=compact" alt="guestbyte" /></p>
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guestbyte&show_icons=true&locale=en" alt="guestbyte" /></p>
 
