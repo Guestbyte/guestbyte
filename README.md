@@ -6,14 +6,12 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 
 - 🔭 I’m currently working as Technical Lead Developer and SRE (Site Reability) on Educational segment (LMS Projects).
 - 🌱 I’m currently learning AWS (Solutions Architect Certification), GoLang (MicroServices, REST/gRPC, DevOps Automations) and Blockchain (Solidity, Web3).
-- 🏫 I
-- 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
-- 📫 You can reach me at: <a href="mailto:guestbyte@gmail.com">guestbyte@gmail.com</a>
+- 👯 I’m always looking to collaborate and work with amazing teams and projects, help others and be helped to grow as a person and professionally.
 
 ### Connect With Me 🤝🤝
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandoortizmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandoortizmello/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernandoortizmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandoortizmello/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
