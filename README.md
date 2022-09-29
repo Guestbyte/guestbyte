@@ -12,6 +12,8 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 
 [![trophy]([https://github-profile-trophy.vercel.app/?username=guestbyte](https://github-profile-trophy.vercel.app/?username=guestbyte&title=MultiLanguage,Repositories,Stars,Commits,Followers))](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=guestbyte)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Connect With Me 🤝🤝
 
 <p align="left">
