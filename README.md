@@ -10,10 +10,6 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 - 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
 - 📫 You can reach me at: <a href="mailto:guestbyte@gmail.com">guestbyte@gmail.com</a>
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=guestbyte](https://github-profile-trophy.vercel.app/?username=guestbyte&title=MultiLanguage,Repositories,Stars,Commits,Followers))](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=guestbyte)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect With Me 🤝🤝
 
 <p align="left">
@@ -27,6 +23,8 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guestbyte&show_icons=true&locale=en&layout=compact" alt="guestbyte" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=guestbyte)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guestbyte&show_icons=true&locale=en" alt="guestbyte" /></p>
 
