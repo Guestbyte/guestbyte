@@ -1,27 +1,19 @@
-<h1 align="center">Hello there 👋,</h1>
-<h3 align="center">I'm Fernando Ortiz Mello, a passionate FullStack Developer from Brazil, living in Spain. </h3>
+### Hello there 👋
 
-[https://github-profile-trophy.vercel.app/?username=guestbyte](https://github-profile-trophy.vercel.app/?username=guestbyte&title=MultiLanguage,Repositories,Stars,Commits,Followers)
+I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living in Spain. I love always looking for innovation, pursuing knowledge and adding value to the world.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### About Me 🤓
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=guestbyte" alt="guestbyte" /></a> 
-
-</p>
-
-### About Me🤓
-
-- 🔭 I’m currently working on Web Based Projects in Laravel.
-- 🌱 I’m currently learning Frontend,Cybersecurity,Blockchain.
-- 🏫  Want to learn MEAN,MERN stack.
+- 🔭 I’m currently working as Technical Lead Developer and SRE (Site Reability) on Educational segment (LMS Projects).
+- 🌱 I’m currently learning AWS (Solutions Architect Certification), GoLang (MicroServices, REST/gRPC, DevOps Automations) and Blockchain (Solidity, Web3).
+- 🏫 I
 - 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
-- 📫 You can reach me at: <a href="mailto:aakarshissa@gmail.com">aakarshissa@gmail.com</a>
-- 💭 My dream is to work with Elon Musk, Hope one day I'll meet him and explain my ideas.
+- 📫 You can reach me at: <a href="mailto:guestbyte@gmail.com">guestbyte@gmail.com</a>
 
+[![trophy]([https://github-profile-trophy.vercel.app/?username=guestbyte](https://github-profile-trophy.vercel.app/?username=guestbyte&title=MultiLanguage,Repositories,Stars,Commits,Followers))](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
+### Connect With Me 🤝🤝
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandoortizmello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandoortizmello/" height="30" width="40" /></a>
 </p>
