@@ -8,6 +8,8 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 - 🌱 I’m currently learning AWS (Solutions Architect Certification), GoLang (MicroServices, REST/gRPC, DevOps Automations) and Blockchain (Solidity, Web3).
 - 👯 I’m always looking to collaborate and work with amazing teams and projects, help others and be helped to grow as a person and professionally.
 
+<img alt="Dev Card Stats" src="https://api.daily.dev/devcards/97c83b830041472c9f8a67532556fa58.png?r=6pr" width="200" align="right"/>
+
 ### Connect With Me 🤝🤝
 
 <p align="left">
@@ -54,11 +56,14 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<p align="left">
+<a href="https://github.com/guestbyte">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guestbyte&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guestbyte&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=guestbyte&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://app.daily.dev/fortiz"><img src="https://api.daily.dev/devcards/97c83b830041472c9f8a67532556fa58.png?r=6pr" width="200" alt="Fernando Ortiz de Mello's Dev Card"/></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guestbyte&show_icons=true&locale=en&layout=compact" alt="guestbyte" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guestbyte&show_icons=true&locale=en" alt="guestbyte" /></p>
 
