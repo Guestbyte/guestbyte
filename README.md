@@ -53,7 +53,6 @@ I'm Fernando Ortiz Mello, a passionate Full Stack developer from Brazil living i
 ![VMware](https://img.shields.io/badge/-VMware_vSphere-05122A?style=flat&logo=vmware)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <p align="left">
